@@ -142,13 +142,27 @@ To customize this landing page:
 
 This project is open source and available for personal and commercial use.
 
+## 📞 Support
+
+If you have any questions or need help, please:
+- Open an issue on GitHub
+- Contact the maintainer via email: [yasienahmed607@gmail.com](mailto:yasienahmed607@gmail.com)
+
 ## 👤 Author
 
-**Eng. Yasien Ahmed Elkelany**  
-🔧 Backend .NET Developer | ⚡ Angular Frontend Developer  
-🏢 Works at General Investment Authority  
+<div align="center">
+
+### **Eng. Yasien Ahmed Elkelany**
+
+💼 **Backend .NET Developer** | **Angular Frontend Developer**  
+🏢 **General Authority for Investment**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasien-ahmed-b8ab41325)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasienahmed607@gmail.com)
+
+[🔗 LinkedIn Profile](https://www.linkedin.com/in/yasien-ahmed-b8ab41325) | [📧 Email](mailto:yasienahmed607@gmail.com)
+
+</div>
 
 ---
 
@@ -159,3 +173,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 ---
 
 **📌 Note**: This is a static HTML/CSS project. For production use, you may want to integrate a backend service to handle form submissions and add JavaScript for enhanced interactivity.
+
